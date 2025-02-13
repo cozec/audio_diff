@@ -43,6 +43,8 @@ A technical implementation of audio comparison using mel-spectrograms and the Lo
 - Different segment in middle
 - Preserved timing structure
 
+!python create_demo_replacement.py
+
 ### 2. Word Insertion
 **Purpose:** Demonstrate word addition between existing words
 
@@ -60,6 +62,8 @@ A technical implementation of audio comparison using mel-spectrograms and the Lo
 - New segment identified
 - Timeline shift detection
 
+!python create_demo_insertion.py
+
 ### 3. Word Deletion
 **Purpose:** Demonstrate word removal from sequence
 
@@ -76,6 +80,8 @@ A technical implementation of audio comparison using mel-spectrograms and the Lo
 - Matching segments preserved
 - Deleted segment identified
 - Timeline compression detected
+
+!python create_demo_deletion.py 
 
 ## Visualization Outputs
 
