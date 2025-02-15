@@ -1,0 +1,21 @@
+# Core audio processing
+librosa>=0.10.1
+soundfile>=0.12.1
+
+# Numerical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter notebooks (for demos)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Audio file handling
+pydub>=0.25.1
+
+# Optional: Audio playback
+sounddevice>=0.4.6 

@@ -26,7 +26,7 @@ A implementation of audio comparison using mel-spectrograms and the Longest Comm
 
 ## Demo Cases
 
-### 1. Word Replacement
+### 1. Word Replacement [checkout: demo_replacement.ipynb]
 **Purpose:** Demonstrate word substitution while maintaining context
 
 **Implementation:**
@@ -45,7 +45,7 @@ A implementation of audio comparison using mel-spectrograms and the Longest Comm
 
 !python create_demo_replacement.py
 
-### 2. Word Insertion
+### 2. Word Insertion [checkout: demo_insertion.ipynb]
 **Purpose:** Demonstrate word addition between existing words
 
 **Implementation:**
@@ -64,7 +64,7 @@ A implementation of audio comparison using mel-spectrograms and the Longest Comm
 
 !python create_demo_insertion.py
 
-### 3. Word Deletion
+### 3. Word Deletion [checkout: demo_deletion.ipynb]
 **Purpose:** Demonstrate word removal from sequence
 
 **Implementation:**
