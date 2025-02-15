@@ -1,6 +1,6 @@
 # Audio Diff 
 
-A implementation of audio comparison using mel-spectrograms and the Longest Common Subsequence (LCS) algorithm, demonstrated through three modification cases.
+An implementation of audio comparison using mel-spectrograms and the Longest Common Subsequence (LCS) algorithm, demonstrated through three modification cases.
 
 ## Algorithm Overview
 
